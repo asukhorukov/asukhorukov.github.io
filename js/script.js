@@ -1,3 +1,3 @@
-var message;
-message = 'Вам это действительно интересно?';
-alert( message )
+var golf;
+golf = 'Вам это действительно интересно?';
+alert( golf )
